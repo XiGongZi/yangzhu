@@ -37,7 +37,7 @@ io.on('connection', socket => {
         console.log('Message sent: ' + info.response);
     
     });
-// test2
+// test2 branch
     var mailOptions2 = {
       from: '1079688386@qq.com', // 发件地址
       to: obj.email, // 收件列表
